@@ -1,0 +1,16 @@
+.parent{
+    position: relative;
+  
+}
+.text{
+    position: absolute;
+     top: 50%;
+     left: 50%;
+     color: white;
+    
+
+}
+img{
+    object-fit: cover;
+    height: 80vh;
+}
