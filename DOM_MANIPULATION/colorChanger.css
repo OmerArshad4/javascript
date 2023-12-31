@@ -1,0 +1,44 @@
+#yellow {
+  width: 15%;
+  background-color: yellow;
+  border: 1px solid grey;
+  height: 20vh;
+  cursor: pointer;
+}
+#red {
+  width: 15%;
+  height: 20vh;
+  background-color: red;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+#blue {
+  width: 15%;
+  background-color: blue;
+  border: 1px solid grey;
+  height: 20vh;
+  cursor: pointer;
+}
+#white {
+  width: 15%;
+  background-color: aqua;
+  border: 1px solid grey;
+  height: 20vh;
+  cursor: pointer;
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: 60vh;
+  flex-wrap: wrap;
+}
+h1 {
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
